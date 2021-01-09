@@ -7,6 +7,7 @@
 - Change added books
 - Books will stay even after refresh (in your local storage)
 - Delete added books
+- Responsive
 
 ## [Live Demo](https://keshiki26.github.io/odinbooks/)
 
