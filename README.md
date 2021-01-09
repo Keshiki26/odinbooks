@@ -1,7 +1,5 @@
 
 
-## Live Demo
-
-[a link] (https://keshiki26.github.io/odinbooks/)
+## [Live Demo](https://keshiki26.github.io/odinbooks/)
 
 Made with React instead of Vanilla JS :(
